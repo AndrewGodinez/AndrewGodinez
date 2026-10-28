@@ -23,12 +23,6 @@ Systems Engineering student at Universidad Nacional de Costa Rica (UNA) with a f
 
 ### Featured Project
 
-<div align="center">
-  <a href="https://github.com/AndrewGodinez/Match-3-SFML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewGodinez&repo=Match-3-SFML&theme=github_dark&hide_border=true" alt="Match-3-SFML" />
-  </a>
-</div>
-
 - **[Match-3-SFML](https://github.com/AndrewGodinez/Match-3-SFML)**: A 2D tile-matching puzzle game built from scratch in C++ using the SFML library. Implements custom grid management, state machines, pattern-matching algorithms, and event-driven rendering.
 
 ---
@@ -36,12 +30,16 @@ Systems Engineering student at Universidad Nacional de Costa Rica (UNA) with a f
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewGodinez&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewGodinez&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewGodinez&theme=github_dark" width="100%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewGodinez&theme=github_dark&hide_border=true" width="98%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndrewGodinez&theme=github_dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndrewGodinez&theme=github_dark" width="49%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AndrewGodinez&theme=dark&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
