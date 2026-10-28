@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&fontColor=ffffff&height=180&section=header&text=Andrew%20Godinez&fontSize=42&desc=Systems%20Engineering%20Student%20%7C%20Mobile%20%26%20Software%20Development&descFontSize=16&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&fontColor=ffffff&height=180&section=header&text=Andrew%20Godinez&fontSize=42&desc=Systems%20Engineering%20Student&descFontSize=16&descAlignY=65" width="100%"/>
 </div>
 
 ### About Me
@@ -11,7 +11,6 @@ Systems Engineering student at Universidad Nacional de Costa Rica (UNA) with a f
 ### Technical Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white" alt="SFML" />
@@ -54,17 +53,3 @@ Systems Engineering student at Universidad Nacional de Costa Rica (UNA) with a f
     <img src="https://img.shields.io/badge/Email-andrewgb20%40protonmail.com-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </div>
-<!--
-**AndrewGodinez/AndrewGodinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
